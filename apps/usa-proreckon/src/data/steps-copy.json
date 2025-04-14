@@ -1,0 +1,41 @@
+[
+    {
+        "icon": "icon-coin-chair",
+        "category": "payment solution",
+        "title": "USBs Are Disabled ",
+        "desc": "Save up to 15%-30% on expenses by outsourcing non-core functions to us.",
+        "shortDesc": "Get personalized financial advice to help reach your financial goals.",
+        "phospor-icon": "networkx"
+    },
+    {
+        "icon": "icon-hand-tick",
+        "category": "payment solution",
+        "title": "Email Restrictions",
+        "desc": "Stay stress free with our comprehensive tax filing solutions that ensure compliance and maximise savings.",
+        "shortDesc": "Get personalized financial advice to help reach your financial goals."
+    },
+    {
+        "icon": "icon-hand-house",
+        "category": "payment solution",
+        "title": "Users Can't Change Settings",
+        "desc": "Adapt quickly to business changes with scalable services, without the hassle of hiring or layoffs.",
+        "shortDesc": "Get personalized financial advice to help reach your financial goals."
+    },
+
+    {
+        "icon": "icon-hand-house",
+        "category": "payment solution",
+        "title": "Printing Access To Only Team",
+        "desc": "Free up your internal team to concentrate on core strengths and business growth.",
+        "shortDesc": "Get personalized financial advice to help reach your financial goals."
+    },
+
+    {
+        "icon": "icon-hand-house",
+        "category": "payment solution",
+        "title": "IP Address Restrictions",
+        "desc": "Experience exceptional, personalised service aligned with your business goals.",
+        "shortDesc": "Get personalized financial advice to help reach your financial goals."
+    }
+
+]

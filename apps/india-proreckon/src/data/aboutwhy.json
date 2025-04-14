@@ -1,0 +1,48 @@
+[
+    {
+        "icon": "icon-coin-chair",
+        "category": "payment solution",
+        "title": "Tailored Financial Solutions",
+        "desc": "At ProReckon, your financial journey is unique, and so are our solutions - crafted just for you.",
+        "shortDesc": "Get personalized financial advice to help reach your financial goals."
+    },
+    {
+        "icon": "icon-hand-tick",
+        "category": "payment solution",
+        "title": "Better Interest Rates & Returns",
+        "desc": "Maximise your earnings with our competitive interest rates that turn savings into real growth.",
+        "shortDesc": "Get personalized financial advice to help reach your financial goals."
+    },
+    {
+        "icon": "icon-hand-house",
+        "category": "payment solution",
+        "title": "Expert Consultation, Anytime!",
+        "desc": "Our seasoned experts are always just a call away, ready to offer guidance whenever you need it.",
+        "shortDesc": "Get personalized financial advice to help reach your financial goals."
+    },
+
+    {
+        "icon": "icon-hand-house",
+        "category": "payment solution",
+        "title": "Innovative Approach",
+        "desc": "ProReckon leverages cutting-edge technology and data-driven insights to ensure your financial future is secure.",
+        "shortDesc": "Get personalized financial advice to help reach your financial goals."
+    },
+
+    {
+        "icon": "icon-hand-house",
+        "category": "payment solution",
+        "title": "Comprehensive Service Range",
+        "desc": "From personal finance to business expansion, we cover all your financial needs under one roof.",
+        "shortDesc": "Get personalized financial advice to help reach your financial goals."
+    },
+
+    {
+        "icon": "icon-hand-house",
+        "category": "payment solution",
+        "title": "Cost Efficiency and Time Savings",
+        "desc": "By outsourcing your financial tasks to ProReckon, you not only reduce operational costs but also save valuable time.",
+        "shortDesc": "Get personalized financial advice to help reach your financial goals."
+    }
+
+]

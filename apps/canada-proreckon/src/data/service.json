@@ -1,0 +1,26 @@
+[
+    {
+        "slug": "accounting-and-bookkeeping",
+        "icon": "icon-coin-chair",
+        "category": "payment solution",
+        "title": "Accounting & Bookkeeping",
+        "desc": "Keep your finances in check with our meticulous management.",
+        "shortDesc": "Get personalized financial advice to help reach your financial goals."
+    },
+    {
+        "slug": "annual-tax-services",
+        "icon": "icon-hand-tick",
+        "category": "payment solution",
+        "title": "Annual Tax",
+        "desc": "Stay stress free with our comprehensive tax filing solutions that ensure compliance and maximise savings.",
+        "shortDesc": "Get personalized financial advice to help reach your financial goals."
+    },
+    {
+        "slug": "sales-tax-services",
+        "icon": "icon-hand-house",
+        "category": "payment solution",
+        "title": "Sales Tax",
+        "desc": "Navigate complex sales tax regulations effortlessly with our expert guidance and precise filings.",
+        "shortDesc": "Get personalized financial advice to help reach your financial goals."
+    }
+]

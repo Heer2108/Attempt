@@ -1,0 +1,16 @@
+# robots.txt for Proreckon Solutions US
+
+# Allow all user agents
+User-agent: *
+
+# Disallow crawling of sensitive or unnecessary areas
+Disallow: /admin/
+Disallow: /login/
+Disallow: /register/
+Disallow: /private/
+
+# Allow all other pages
+Allow: /
+
+# Sitemap location
+Sitemap: https://ca.proreckonsolutions.com/sitemap.xml

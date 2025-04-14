@@ -1,0 +1,26 @@
+[
+    {
+        "slug": "business-financing-growth",
+        "icon": "icon-coin-chair",
+        "category": "payment solution",
+        "title": "Business Financing & Growth",
+        "desc": "Unlock your business potential with tailored financing solutions designed to fuel growth and enhance cash flow.",
+        "shortDesc": "Get personalized financial advice to help reach your financial goals."
+    },
+    {
+        "slug": "financial-advisory-support",
+        "icon": "icon-hand-tick",
+        "category": "payment solution",
+        "title": "Financial Advisory & Support Services",
+        "desc": "Receive expert guidance on financial planning, compliance, and strategy.",
+        "shortDesc": "Get personalized financial advice to help reach your financial goals."
+    },
+    {
+        "slug": "personal-financial-solutions",
+        "icon": "icon-hand-house",
+        "category": "payment solution",
+        "title": "Personal Financial Solutions",
+        "desc": "Achieve your personal finance goals with tailored loan options and investment strategies that suit your lifestyle.",
+        "shortDesc": "Get personalized financial advice to help reach your financial goals."
+    }
+]

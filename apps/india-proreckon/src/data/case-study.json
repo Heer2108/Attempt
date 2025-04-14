@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "category": "fintech",        
+        "subTitle": "",
+        "title": "Account Payable",
+        "desc": "Experience the excitement and potential of the cryptocurrency market with our expert trading services.",
+        "shortDesc": "",        
+        "img": "/images/blog/accountp.jpg"
+    },
+    {
+        "id": 2,
+        "category": "fintech",        
+        "subTitle": "",
+        "title": "Account Receivable",
+        "desc": "Experience the excitement and potential of the cryptocurrency market with our expert trading services.",
+        "shortDesc": "",        
+        "img": "/images/blog/accountr.jpg"
+    },
+    {
+        "id": 3,
+        "category": "fintech",        
+        "subTitle": "",
+        "title": "Bank Reconciliation",
+        "desc": "Experience the excitement and potential of the cryptocurrency market with our expert trading services.",
+        "shortDesc": "",        
+        "img": "/images/blog/bank.jpg"
+    },
+    {
+        "id": 4,
+        "category": "fintech",        
+        "subTitle": "",
+        "title": "Financial Analysis",
+        "desc": "Experience the excitement and potential of the cryptocurrency market with our expert trading services.",
+        "shortDesc": "",        
+        "img": "/images/blog/financial.jpg"
+    },
+
+    {
+        "id": 5,
+        "category": "investing",        
+        "subTitle": "",
+        "title": "Full Time Bookkeeper",
+        "desc": "Experience the excitement and potential of the cryptocurrency market with our expert trading services.",
+        "shortDesc": "",        
+        "img": "/images/blog/full.jpg"
+    },
+    {
+        "id": 6,
+        "category": "investing",        
+        "subTitle": "",
+        "title": "Year End Finalisation",
+        "desc": "Experience the excitement and potential of the cryptocurrency market with our expert trading services.",
+        "shortDesc": "",        
+        "img": "/images/blog/year.jpg"
+    }
+]

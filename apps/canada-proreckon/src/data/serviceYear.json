@@ -1,0 +1,48 @@
+[
+    {
+        "icon": "icon-coin-chair",
+        "category": "payment solution",
+        "title": "Comprehensive Financial Review",
+        "desc": "Our team conducts a thorough review of your financial records, ensuring accuracy and completeness in all transactions for the year. We identify discrepancies and correct them before finalising the accounts.",
+        "shortDesc": "Get personalized financial advice to help reach your financial goals."
+    },
+    {
+        "icon": "icon-hand-tick",
+        "category": "payment solution",
+        "title": "Accurate Financial Statements",
+        "desc": "We prepare detailed financial statements, including the balance sheet, profit and loss statements, and cash flow reports, providing a clear view of your company’s financial performance over the year.",
+        "shortDesc": "Get personalized financial advice to help reach your financial goals."
+    },
+    {
+        "icon": "icon-hand-house",
+        "category": "payment solution",
+        "title": "Tax Compliance",
+        "desc": "ProReckon ensures that all tax obligations are met, preparing tax reports and documents necessary for filing. This helps businesses avoid penalties and stay compliant with local and federal tax regulations.",
+        "shortDesc": "Get personalized financial advice to help reach your financial goals."
+    },
+
+    {
+        "icon": "icon-hand-house",
+        "category": "payment solution",
+        "title": "Expense and Revenue Reconciliation",
+        "desc": "Our experts reconcile all accounts, ensuring that every revenue and expense entry is accurate. This guarantees financial transparency and allows businesses to maintain precise records.",
+        "shortDesc": "Get personalized financial advice to help reach your financial goals."
+    },
+
+    {
+        "icon": "icon-hand-house",
+        "category": "payment solution",
+        "title": "Asset and Liability Assessment",
+        "desc": "We assess your company’s assets and liabilities, adjusting for depreciation, debt, and other financial obligations. This ensures an accurate representation of the company’s financial standing.",
+        "shortDesc": "Get personalized financial advice to help reach your financial goals."
+    },
+
+    {
+        "icon": "icon-hand-house",
+        "category": "payment solution",
+        "title": "Audit Preparation",
+        "desc": "ProReckon prepares your financial records for external audits, ensuring all documents and reports are audit-ready and compliant with accounting standards.",
+        "shortDesc": "Get personalized financial advice to help reach your financial goals."
+    }
+
+]

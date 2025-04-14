@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Link to Subdomain Sitemaps -->
+  <sitemap>
+    <loc>https://au.proreckonsolutions.com/sitemap.xml</loc>
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://us.proreckonsolutions.com/sitemap.xml</loc>
+  </sitemap>
+
+  <sitemap>
+    <loc>https://ca.proreckonsolutions.com/sitemap.xml</loc>
+  </sitemap>
+
+  <sitemap>
+    <loc>https://proreckonsolutions.in/sitemap.xml</loc>
+  </sitemap>
+</sitemapindex>
