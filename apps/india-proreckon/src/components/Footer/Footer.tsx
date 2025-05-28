@@ -86,9 +86,6 @@ const Footer = () => {
     <div className="left-block flex flex-col items-center text-center">
         <div className="copy-right text-surface caption1">
             © {new Date().getFullYear()} ProReckon. All Rights Reserved.
-            <span className="inline-block lg:inline lg:ml-2 block"> {/* Ensures it goes inline on desktop but block on mobile */}
-            Designed by <Link href="https://www.civoncetech.com/" target="_blank" style={{ textDecoration: 'underline', color: '#F57C00' }}>Civonce Technologies</Link>
-            </span>
         </div>
     </div>
 </div>
