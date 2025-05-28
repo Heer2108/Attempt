@@ -14,12 +14,12 @@ const TopNavOne = () => {
           <div className="left-block flex items-center">
             <div className="flex items-center">
               <Icon.Phone className="text-white text-xl" />
-              <Link href="tel:+919924443174">
+              <Link href="tel:+919998943174">
                 <span className="ml-2 caption1 text-white max-lg:hidden">
-                +91 99244 43174
+                +91 99989 43174
                 </span>
               </Link>
-              <Link href="tel:+919924443174">
+              <Link href="tel:+919998943174">
                 <span className="pr-2 ml-2 caption1 text-white md:hidden">
                   Call Us
                 </span>
